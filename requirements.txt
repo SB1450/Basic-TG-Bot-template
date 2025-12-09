@@ -1,2 +1,2 @@
-ppyTelegramBotAPI
+telebot
 python-dotenv
